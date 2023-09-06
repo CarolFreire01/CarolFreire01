@@ -30,7 +30,3 @@
     <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="circleci"/> 
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="circleci"/> 
 </p>
-
-<div>
-  ![snake-gif](https://github.com/CarolFreire01/CarolFreire01/blob/output/github-contribution-grid-snake.gif)
-</div>
