@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carol Freire</h1>
-<h3 align="center">Apaixonada em desenvolvimento e resolver problemas</h3>
+<h3 align="center">Passionate about software development and problem-solving.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
